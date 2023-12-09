@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "6. Работа с файлами, DnD"
+# Домашнее задание к занятию "6. Работа с файлами, DnD."
 
 ![CI](https://github.com/sskulikov/ahj-DnD/actions/workflows/web.yml/badge.svg)
 
